@@ -1,12 +1,12 @@
 {
-    "name": "shvetsgroup/laravel-email-database-log",
+    "name": "omniware/laravel-email-database-log",
     "description": "A simple database logger for all outgoing emails sent by Laravel website.",
     "keywords": ["laravel", "markdown"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Alexander Shvets",
-            "email": "neochief@shvetsgroup.com"
+            "name": "Karmendra Suthar",
+            "email": "karmendra.js@gmail.com"
         }
     ],
     "require": {
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "ShvetsGroup\\LaravelEmailDatabaseLog\\": "src/"
+            "Omniware\\LaravelEmailDatabaseLog\\": "src/"
         }
     },
     "minimum-stability": "stable"

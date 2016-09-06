@@ -1,6 +1,6 @@
 <?php
 
-namespace ShvetsGroup\LaravelEmailDatabaseLog;
+namespace Omniware\LaravelEmailDatabaseLog;
 
 use Illuminate\Contracts\Events\Dispatcher as DispatcherContract;
 use Illuminate\Foundation\Support\Providers\EventServiceProvider;
